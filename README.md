@@ -77,7 +77,7 @@ weighted avg      0.99      0.99      0.99     36622
 
 ---
 
-## 🖥 Web Application
+## 🌐 Web Interface
 
 The application provides:
 
