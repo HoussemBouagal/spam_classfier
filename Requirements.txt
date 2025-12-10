@@ -1,0 +1,5 @@
+tensorflow >= 2.10.0
+flask
+numpy
+pickle5
+werkzeug
