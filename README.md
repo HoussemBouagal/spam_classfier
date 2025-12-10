@@ -86,6 +86,8 @@ The application provides:
 - **Confidence score** for each classification  
 - An API endpoint to integrate with other applications  
 
+![Interface](assets/app_interface.png) 
+
 ---
 
 ## 🧪 Example Predictions
