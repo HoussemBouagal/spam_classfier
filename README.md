@@ -91,10 +91,10 @@ The application provides:
 ## 🧪 Example Predictions
 
 **SPAM Example**  
-![spam](assets/Spam.png)  
+![spam](assets/spam.png)  
 
 **HAM Example**  
-![ham](assets/Ham.png)  
+![ham](assets/ham.png)  
 
 ---
 
